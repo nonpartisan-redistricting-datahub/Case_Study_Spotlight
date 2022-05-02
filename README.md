@@ -11,11 +11,9 @@ These datasets are necessary in order to provide both census and voter file data
 
 Pennsylvania data is used in the code: 
 
-* [Pennsylvania block PL 94-171 2020
-](https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94171-2020/)
-* [https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94-171-2020-official-prison-adjusted/](https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94-171-2020-official-prison-adjusted/)
-* [2021 Pennsylvania L2 Voter File Aggregated to 2020 Census Blocks
-](https://redistrictingdatahub.org/dataset/2021-pennsylvania-l2-voter-file-aggregated-to-2020-census-blocks/)
+* [Pennsylvania block PL 94-171 2020](https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94171-2020/)
+* [Pennsylvania Block PL 94-171 2020 Official (Prison Adjusted)](https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94-171-2020-official-prison-adjusted/)
+* [2021 Pennsylvania L2 Voter File Aggregated to 2020 Census Blocks](https://redistrictingdatahub.org/dataset/2021-pennsylvania-l2-voter-file-aggregated-to-2020-census-blocks/)
 * [Pennsylvania Current Maps](https://davesredistricting.org/maps#state::PA)
 
 
