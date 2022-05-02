@@ -7,7 +7,17 @@ You can find a write up of that Case Study on our website [redistrictingdatahub.
 ## Getting Started
 
 ### Data
-These datasets are necessary in order to provide both census and voter file data for state legislative and congressional districts.
+These datasets are necessary in order to provide both census and voter file data for state legislative and congressional districts. They are available for all 50 states.
+
+Pennsylvania data is used in the code: 
+
+* [Pennsylvania block PL 94-171 2020
+](https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94171-2020/)
+* [https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94-171-2020-official-prison-adjusted/](https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94-171-2020-official-prison-adjusted/)
+* [2021 Pennsylvania L2 Voter File Aggregated to 2020 Census Blocks
+](https://redistrictingdatahub.org/dataset/2021-pennsylvania-l2-voter-file-aggregated-to-2020-census-blocks/)
+* [Pennsylvania Current Maps](https://davesredistricting.org/maps#state::PA)
+
 
 #### PL 94-171
 The PL 94-171 data at the “uncorrected” 2020 census block level in csv format. This contains data on the total population, as well as the population by race and ethnicity (used for congressional redistricting). It also contains block assignment files to the “old” districts in effect in 2020.
@@ -15,7 +25,9 @@ The PL 94-171 data at the “uncorrected” 2020 census block level in csv forma
 To download the data, [create a free account](https://redistrictingdatahub.org/my-account/register/), go to [download data](https://redistrictingdatahub.org/data/download-data/#state-menu), select a state and filter by type of data: *PL 94-171*
 
 #### Shapefiles
-Shapefiles of the official adjusted PL 94-171 dataset at the 2020 census block level. This contains data on the total adjusted population, as well as the adjusted population by race and ethnicity (used for legislative redistricting)
+Shapefiles of the official adjusted PL 94-171 dataset at the 2020 census block level. This contains data on the total adjusted population, as well as the adjusted population by race and ethnicity. 
+
+To find out if your state uses adjusted data reference [State and Adjustment Wording](https://redistrictingdatahub.org/data/about-our-data/pl-94171-dataset/states-and-modification-wording/) and [States that Adjust the Census Data for Redistricting](https://redistrictingdatahub.org/data/ongoing-data-projects/states-that-adjust-the-census-data-for-redistricting/)
 
 To download the data, [create a free account](https://redistrictingdatahub.org/my-account/register/), go to [download data](https://redistrictingdatahub.org/data/download-data/#state-menu), select a state and filter by type of data: *PL 94-171*
 
