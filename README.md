@@ -38,6 +38,19 @@ To download the data, [create a free account](https://redistrictingdatahub.org/m
 Block assignment files for the new House, Senate, and US Congressional districts. 
 Navigate to the current maps for the state on [DRA](https://davesredistricting.org/maps#), and open up each of the three official maps. On each map, click the arrow pointing to the upper-right, check "Export alternate census blocks" and export the block assignment files.
 
+#### Folder Structure
+After making the name changes to the block-assignment files (being sure to rename the right files), you should have a "raw-from-source" folder with the following files / folders:
+
+raw-from-source/
+    block-assignments-pa-cong.csv
+    block-assignments-pa-sldl.csv
+    block-assignments-pa-sldu.csv
+    PA_L2_2020BlockAgg
+    pa_pl2020_b
+    pa_pl2020_b_csv
+    pa_pl2020_block_noreallocation
+    pa_pl2020_official_blocks
+
 ## Questions
 
 Send a message to the Redistricting Data Hub [Help Desk](https://redistrictingdatahub.org/tools/support/) at help@redistrictingdatahub.org with questions about this code, data and the redistricting process!
