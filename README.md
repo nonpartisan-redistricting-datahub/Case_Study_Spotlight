@@ -47,7 +47,7 @@ Send a message to the Redistricting Data Hub [Help Desk](https://redistrictingda
 We are used Python and Jupyter Notebook to show how we processed the data. We like Jupyter Notebook because it provides a very easy way to visualize the data as you are working. 
 
 * [Python](https://www.python.org/)
-* [Jupiter Notebook](https://jupyter.org/)
+* [Jupyter Notebook](https://jupyter.org/)
 
 ## Read More
 For more information about how our Help Desk used this code to create a tool that compares Pennsylvania's new and old districts, read the case study. (Note: As of 04/28 it has not yet been posted).
