@@ -42,14 +42,14 @@ Navigate to the current maps for the state on [DRA](https://davesredistricting.o
 After making the name changes to the block-assignment files (being sure to rename the right files), you should have a "raw-from-source" folder with the following files / folders:
 
 raw-from-source/
-    * block-assignments-pa-cong.csv
-    * block-assignments-pa-sldl.csv
-    * block-assignments-pa-sldu.csv
-    * PA_L2_2020BlockAgg
-    * pa_pl2020_b
-    * pa_pl2020_b_csv
-    * pa_pl2020_block_noreallocation
-    * pa_pl2020_official_blocks
+* block-assignments-pa-cong.csv
+* block-assignments-pa-sldl.csv
+* block-assignments-pa-sldu.csv
+* PA_L2_2020BlockAgg
+* pa_pl2020_b
+* pa_pl2020_b_csv
+* pa_pl2020_block_noreallocation
+* pa_pl2020_official_blocks
 
 ## Questions
 
