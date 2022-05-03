@@ -18,11 +18,11 @@ Pennsylvania data is used in the code:
 
 
 #### PL 94-171
-The PL 94-171 data at the “uncorrected” 2020 census block level in csv format. This contains data on the total population, as well as the population by race and ethnicity (used for congressional redistricting). It also contains block assignment files to the “old” districts in effect in 2020.
+The PL 94-171 data at the “uncorrected” 2020 census block level in csv format. This contains data on the total population, as well as the population by race and ethnicity (used for congressional redistricting). It also contains block assignments to the “old” districts in effect in 2020.
 
 To download the data, [create a free account](https://redistrictingdatahub.org/my-account/register/), go to [download data](https://redistrictingdatahub.org/data/download-data/#state-menu), select a state and filter by type of data: *PL 94-171*
 
-#### Shapefiles
+#### Offical adjusted data
 Shapefiles of the official adjusted PL 94-171 dataset at the 2020 census block level. This contains data on the total adjusted population, as well as the adjusted population by race and ethnicity. 
 
 To find out if your state uses adjusted data reference [State and Adjustment Wording](https://redistrictingdatahub.org/data/about-our-data/pl-94171-dataset/states-and-modification-wording/) and [States that Adjust the Census Data for Redistricting](https://redistrictingdatahub.org/data/ongoing-data-projects/states-that-adjust-the-census-data-for-redistricting/)
@@ -34,7 +34,7 @@ To download the data, [create a free account](https://redistrictingdatahub.org/m
 
 To download the data, [create a free account](https://redistrictingdatahub.org/my-account/register/), go to [download data](https://redistrictingdatahub.org/data/download-data/#state-menu), select a state and filter by source: *L2*
 
-#### Block Assignment Files
+#### Current Maps 2022
 Block assignment files for the new House, Senate, and US Congressional districts. 
 Navigate to the current maps for the state on [DRA](https://davesredistricting.org/maps#), and open up each of the three official maps. On each map, click the arrow pointing to the upper-right, check "Export alternate census blocks" and export the block assignment files.
 
