@@ -14,10 +14,14 @@ Pennsylvania data is used in the code:
 * [Pennsylvania block PL 94-171 2020](https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94171-2020/)
   * You should download the .csv version of this file and rename it "pa_pl2020_b_csv" to distinguish from the below 
 * [Pennsylvania block PL 94-171 2020 (by table)](https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94171-2020-by-table/)
+  * This is a smaller version of the above dataset. We use this smaller version to grab the shapefile and demographic data for PA. 
   * You should download the .shp version of this file 
 * [Pennsylvania Block PL 94-171 2020 Official (Prison Adjusted)](https://redistrictingdatahub.org/dataset/pennsylvania-block-pl-94-171-2020-official-prison-adjusted/)
 * [2021 Pennsylvania L2 Voter File Aggregated to 2020 Census Blocks](https://redistrictingdatahub.org/dataset/2021-pennsylvania-l2-voter-file-aggregated-to-2020-census-blocks/)
 * [Pennsylvania Current Maps 2022](https://davesredistricting.org/maps#state::PA)
+  * Note: For these files, you'll need to have an account with DRA. Navigate to each of the three links above, and open up each of the three official maps.
+  * On each map, click the arrow pointing to the upper-right, check "Export alternate census blocks" and export the block assignment files.
+For the purposes of folder structure, I've renamed these files, block-assignment-pa-sldl, block-assignment-pa-sldu, and block-assignment-pa-cong respectively
 
 
 #### PL 94-171
