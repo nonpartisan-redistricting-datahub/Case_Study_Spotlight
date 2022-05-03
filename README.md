@@ -46,7 +46,7 @@ Block assignment files for the new House, Senate, and US Congressional districts
 Navigate to the current maps for the state on [DRA](https://davesredistricting.org/maps#), and open up each of the three official maps. On each map, click the arrow pointing to the upper-right, check "Export alternate census blocks" and export the block assignment files.
 
 #### Folder Structure
-After making the name changes to the block-assignment files (being sure to rename the right files), you should have a "raw-from-source" folder with the following files / folders:
+After making the name changes to the block-assignment files (being sure to rename the right files), you should create a "raw-from-source" and load in the above files. This file structure will allow you to run the notebook without making changes.
 
 raw-from-source/
 * block-assignments-pa-cong.csv
