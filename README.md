@@ -2,7 +2,7 @@
 
 This is the code that accompanies the Case Study of our aggregation data work with Spotlight PA on the [Pennsylvania District Look Up Tool](https://www.spotlightpa.org/news/2021/12/pennsylvania-redistricting-house-senate-districts-lookup-tool/). 
 
-You can find a write up of that Case Study on our website [redistrictingdatahub.org](https://redistrictingdatahub.org/). (Note: As of 04/28 it has not yet been posted).
+You can find a write up of that Case Study on our website [redistrictingdatahub.org](https://redistrictingdatahub.org/tools/support/helping-people-understand-their-districts-by-providing-data-to-analyze-redistricting-plans/).
 
 ## Getting Started
 
@@ -70,7 +70,7 @@ We are used Python and Jupyter Notebook to show how we processed the data. We li
 * [Jupyter Notebook](https://jupyter.org/)
 
 ## Read More
-For more information about how our Help Desk used this code to create a tool that compares Pennsylvania's new and old districts, read the case study. (Note: As of 04/28 it has not yet been posted).
+For more information about how our Help Desk used this code to create a tool that compares Pennsylvania's new and old districts, read the [case study](https://redistrictingdatahub.org/tools/support/helping-people-understand-their-districts-by-providing-data-to-analyze-redistricting-plans/). 
 
 To learn more about our data, read articles available about [each dataset](https://redistrictingdatahub.org/data/about-our-data/) and [frequently asked questions](https://redistrictingdatahub.org/tools/support/data-faq/) about our data  
 
